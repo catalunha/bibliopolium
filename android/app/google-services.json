@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "228661922018",
+    "project_id": "classic-bibliopolium",
+    "storage_bucket": "classic-bibliopolium.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228661922018:android:9b7e270190a62e3017b6bb",
+        "android_client_info": {
+          "package_name": "education.brintec.bibliopolium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228661922018-5c9s0d61nhgp2oe9046lpb84e3u47gmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "education.brintec.bibliopolium",
+            "certificate_hash": "031b8255ea1c3259de40935fceda93c500792d28"
+          }
+        },
+        {
+          "client_id": "228661922018-svdgb7fbsu0qd6gsp5m6pb8smekblr6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGm5jbBV2qt9938ZPW8BDr77jutV7a5JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228661922018-svdgb7fbsu0qd6gsp5m6pb8smekblr6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
