@@ -40,16 +40,16 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: '...',
-    appId: '1:228661922018:android:9b7e270190a62e3017b6bb',
-    messagingSenderId: '228661922018',
+    appId: '1:228661922018:android:',
+    messagingSenderId: '',
     projectId: 'classic-bibliopolium',
     authDomain: 'classic-bibliopolium.firebaseapp.com',
     storageBucket: 'classic-bibliopolium.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCGm5jbBV2qt9938ZPW8BDr77jutV7a5JA',
-    appId: '1:228661922018:android:9b7e270190a62e3017b6bb',
+    apiKey: '',
+    appId: '1::android:',
     messagingSenderId: '228661922018',
     projectId: 'classic-bibliopolium',
     storageBucket: 'classic-bibliopolium.appspot.com',
